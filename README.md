@@ -1,7 +1,7 @@
 # SocialMediaApp
 
 
-###Tanker
+### (not finished)
 
 - Skal være mulig å lage brukere og logge inn i appen.
 - Lagre ulike aksjer i databasen som folk kan velge og diskutere rundt.
